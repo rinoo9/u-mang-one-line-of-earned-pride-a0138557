@@ -12,6 +12,15 @@ Why this line works against the judge's brief:
   still on the wheel" — with no setup the reader has to assemble.
 * Freshness: no trophy, podium or graduation; the image is an old man
   alone in a parked car, savouring a small victory.
+* Understated, not announced: the line never says "he was proud";
+  the pride is shown by what he does — he sits still instead of
+  celebrating — so the reader feels it rather than being told it.
+* The object carries the story: it is his late wife's car, so the
+  manoeuvre is not just a test passed but a promise kept to someone
+  no longer there; that one detail doubles the weight of the park.
+* One breath, one image: the sentence never leaves the car — failing,
+  parking, sitting — so the whole arc fits in a single unbroken moment
+  the reader can picture in one read.
 """
 
 LINE = (
