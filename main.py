@@ -3,30 +3,29 @@
 Why this line works against the judge's brief:
 
 * Genuine, earned pride: the pride is inside the scene, not asserted.
-  Three winters of failing the driving test is a long, humbling effort;
-  the clean parallel park is the payoff, and the quiet sit afterwards
-  is the feeling landing.
-* Concrete scene with a real person: a named man, a specific car
-  (his late wife's), a specific hard manoeuvre, in one visible moment.
-* Lands in one read: the pride arrives by the last words — "hands
-  still on the wheel" — with no setup the reader has to assemble.
-* Freshness: no trophy, podium or graduation; the image is an old man
-  alone in a parked car, savouring a small victory.
-* Understated, not announced: the line never says "he was proud";
-  the pride is shown by what he does — he sits still instead of
-  celebrating — so the reader feels it rather than being told it.
-* The object carries the story: it is his late wife's car, so the
-  manoeuvre is not just a test passed but a promise kept to someone
-  no longer there; that one detail doubles the weight of the park.
-* One breath, one image: the sentence never leaves the car — failing,
-  parking, sitting — so the whole arc fits in a single unbroken moment
-  the reader can picture in one read.
+  Forty years of night shifts is a long, humbling effort; seeing her
+  name on the hospital wall is the payoff, and touching the plaque is
+  the feeling landing.
+* Concrete scene with a real person: a named woman, a specific place
+  (the hospital wall), a specific small honour, in one visible moment.
+* Lands in one read: the pride arrives by the last words — "like it
+  might be a trick of the light" — with no setup the reader has to
+  assemble.
+* Freshness: no trophy, podium or graduation; the image is a cleaner
+  alone in a corridor, savouring a small victory.
+* Understated, not announced: the line never says "she was proud";
+  the pride is shown by what she does — she touches the plaque
+  instead of celebrating — so the reader feels it rather than being
+  told it.
+* One breath, one image: the sentence never leaves the corridor —
+  working, seeing, touching — so the whole arc fits in a single
+  unbroken moment the reader can picture in one read.
 """
 
 LINE = (
-    "After three winters of failing the driving test, old Mr. Chen "
-    "parallel-parked his late wife's car first try \u2014 and sat there "
-    "a moment, hands still on the wheel."
+    "After forty years of night shifts, Rosa the cleaner finally saw "
+    "her name on the hospital wall \u2014 employee of the month \u2014 and "
+    "she touched the plaque like it might be a trick of the light."
 )
 
 assert 1 <= len(LINE) <= 240, "line must be 1-240 characters"
